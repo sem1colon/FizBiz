@@ -1,7 +1,5 @@
-
 ###  FizBiz
 ###  A Business Sensitive Metric to simplify Loan Disbursement Process.
-
 
 ### The problem FizBiz solves
 
