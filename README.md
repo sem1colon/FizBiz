@@ -10,8 +10,8 @@ Loan Disbusrsement Process is Hectic and involves lot of paper work. Loan as of 
 ####  FizBiz is Business Sensitive Metric i.e it sees
 
 -   Business Location
--   Sector Trend
--   Payment Habits of People in Loacation
+-   Sector Trend.
+-   Payment Habits of People in Loacation.
 -   Payment habit of Merchant Applicant to make Loan disbursement process Automatic, Easy and Swift.
 
 #### So we want to help two involved stakeholders as:
